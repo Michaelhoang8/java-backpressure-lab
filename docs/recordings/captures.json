@@ -1,0 +1,44 @@
+{
+  "captured_at_utc": "2026-11-20T23:15:45.971348+00:00",
+  "source": "Actual browser rendering of docs/report.html",
+  "recording": "Continuous automated browser review; not manual development footage",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "page_title": "Java backpressure study",
+  "report_sha256_normalized_text": "3dda5ea95d8dbc922b8c0ebe7c4d22b9dc95f228953f839038528d8bb9929678",
+  "video_sha256": "cbd971e9fab3e87a99fb9569d22d334d019e647729050ea359dba8140f953eba",
+  "captures": [
+    {
+      "path": "docs/screenshots/01_overview.png",
+      "section": "overview",
+      "sha256": "84cf7b4855d161abee3bda35475363cb2a820cb2a7fffadc564ccb0a93179261"
+    },
+    {
+      "path": "docs/screenshots/02_ownership.png",
+      "section": "ownership",
+      "sha256": "5f58689d8c0ec5c80d6c99f93348bee2f3aeb15adb7c8d0391a5b0dc424c7d5d"
+    },
+    {
+      "path": "docs/screenshots/03_occupancy.png",
+      "section": "occupancy",
+      "sha256": "8c0b51e306a2c55875ad31573d59553c24758aa3694fa1b641052eb2bf7ddbff"
+    },
+    {
+      "path": "docs/screenshots/04_latency.png",
+      "section": "latency",
+      "sha256": "92c443839e508cddf3efc3b172318305adbf874b9107a524b86b8ec70aac5c0f"
+    },
+    {
+      "path": "docs/screenshots/05_accounting.png",
+      "section": "accounting",
+      "sha256": "f085f4a0a95bb2262b9cab5c7d3ceaaa7c75d0db9ad87defe933e6d861249282"
+    },
+    {
+      "path": "docs/screenshots/06_method.png",
+      "section": "method",
+      "sha256": "9eba6c40ea130ac733a67b5d0febf5fe55ada1ccb2b7388d50c4bc91f36d4413"
+    }
+  ]
+}

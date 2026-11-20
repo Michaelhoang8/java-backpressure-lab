@@ -1,0 +1,19 @@
+{
+  "scenario": "block-c8-paced",
+  "policy": "BLOCK",
+  "capacity": 8,
+  "load": "paced",
+  "workers": 2,
+  "producers": 3,
+  "attempted": 180,
+  "admitted": 154,
+  "rejected": 26,
+  "completed": 143,
+  "failed": 11,
+  "cancelled": 0,
+  "peak_queued": 8,
+  "start_ns": 327900,
+  "finish_ns": 1212193800,
+  "duration_ns": 1211865900,
+  "completed_per_second": 117.999854604
+}

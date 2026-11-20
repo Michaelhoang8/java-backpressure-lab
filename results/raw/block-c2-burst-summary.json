@@ -1,0 +1,19 @@
+{
+  "scenario": "block-c2-burst",
+  "policy": "BLOCK",
+  "capacity": 2,
+  "load": "burst",
+  "workers": 2,
+  "producers": 3,
+  "attempted": 180,
+  "admitted": 94,
+  "rejected": 86,
+  "completed": 87,
+  "failed": 7,
+  "cancelled": 0,
+  "peak_queued": 2,
+  "start_ns": 4707400,
+  "finish_ns": 737586800,
+  "duration_ns": 732879400,
+  "completed_per_second": 118.709845030
+}

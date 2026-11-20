@@ -1,0 +1,19 @@
+{
+  "scenario": "reject-c2-paced",
+  "policy": "REJECT",
+  "capacity": 2,
+  "load": "paced",
+  "workers": 2,
+  "producers": 3,
+  "attempted": 180,
+  "admitted": 121,
+  "rejected": 59,
+  "completed": 116,
+  "failed": 5,
+  "cancelled": 0,
+  "peak_queued": 2,
+  "start_ns": 2026100,
+  "finish_ns": 953103500,
+  "duration_ns": 951077400,
+  "completed_per_second": 121.966939810
+}

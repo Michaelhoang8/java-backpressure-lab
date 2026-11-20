@@ -1,0 +1,14 @@
+{
+  "recorded_at_utc": "2026-11-20T23:09:30.120445500Z",
+  "java_version": "21.0.12.1",
+  "java_runtime": "OpenJDK Runtime Environment",
+  "java_vendor": "Eclipse Adoptium",
+  "os": "Windows 11",
+  "architecture": "amd64",
+  "available_processors": 12,
+  "tasks_per_producer": 60,
+  "queue_wait_budget_ms": 3,
+  "nominal_service_delay_ms": 2,
+  "paced_producer_delay_ms": 4,
+  "occupancy_nominal_interval_ms": 0.5
+}

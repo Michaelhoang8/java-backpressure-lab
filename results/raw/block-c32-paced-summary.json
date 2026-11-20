@@ -1,0 +1,19 @@
+{
+  "scenario": "block-c32-paced",
+  "policy": "BLOCK",
+  "capacity": 32,
+  "load": "paced",
+  "workers": 2,
+  "producers": 3,
+  "attempted": 180,
+  "admitted": 167,
+  "rejected": 13,
+  "completed": 156,
+  "failed": 11,
+  "cancelled": 0,
+  "peak_queued": 32,
+  "start_ns": 469000,
+  "finish_ns": 1164312800,
+  "duration_ns": 1163843800,
+  "completed_per_second": 134.038605524
+}

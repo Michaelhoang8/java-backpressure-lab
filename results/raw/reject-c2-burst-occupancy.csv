@@ -1,0 +1,5 @@
+scenario,time_ns,queued,running,waiting_producers,state
+reject-c2-burst,279300,0,0,0,OPEN
+reject-c2-burst,12888200,1,2,0,CLOSING
+reject-c2-burst,28913600,0,0,0,TERMINATED
+reject-c2-burst,28973500,0,0,0,TERMINATED

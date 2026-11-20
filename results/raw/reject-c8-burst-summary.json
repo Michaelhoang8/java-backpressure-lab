@@ -1,0 +1,19 @@
+{
+  "scenario": "reject-c8-burst",
+  "policy": "REJECT",
+  "capacity": 8,
+  "load": "burst",
+  "workers": 2,
+  "producers": 3,
+  "attempted": 180,
+  "admitted": 10,
+  "rejected": 170,
+  "completed": 9,
+  "failed": 1,
+  "cancelled": 0,
+  "peak_queued": 8,
+  "start_ns": 372100,
+  "finish_ns": 75731000,
+  "duration_ns": 75358900,
+  "completed_per_second": 119.428494843
+}

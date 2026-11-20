@@ -1,0 +1,19 @@
+{
+  "scenario": "block-c2-paced",
+  "policy": "BLOCK",
+  "capacity": 2,
+  "load": "paced",
+  "workers": 2,
+  "producers": 3,
+  "attempted": 180,
+  "admitted": 155,
+  "rejected": 25,
+  "completed": 145,
+  "failed": 10,
+  "cancelled": 0,
+  "peak_queued": 2,
+  "start_ns": 454000,
+  "finish_ns": 1205836500,
+  "duration_ns": 1205382500,
+  "completed_per_second": 120.293765672
+}

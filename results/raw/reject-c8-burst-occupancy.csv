@@ -1,0 +1,8 @@
+scenario,time_ns,queued,running,waiting_producers,state
+reject-c8-burst,256900,0,0,0,OPEN
+reject-c8-burst,14196100,8,1,0,CLOSING
+reject-c8-burst,29186500,6,1,0,CLOSING
+reject-c8-burst,45186100,2,2,0,CLOSING
+reject-c8-burst,60193000,2,1,0,CLOSING
+reject-c8-burst,75698000,0,1,0,CLOSING
+reject-c8-burst,75752000,0,0,0,TERMINATED
