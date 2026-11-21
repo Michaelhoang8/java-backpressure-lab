@@ -1,5 +1,7 @@
 # Java backpressure lab
 
+**[View the report in your browser](https://Michaelhoang8.github.io/java-backpressure-lab/)**
+
 A Java 21 study of bounded work queues, overload admission and graceful worker shutdown. The queue implementation, concurrent tests and workload runner use only the JDK. Python turns actual Java task traces into charts and a static report.
 
 ![Measured task outcomes](docs/charts/outcomes.png)
